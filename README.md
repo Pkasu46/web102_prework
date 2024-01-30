@@ -19,7 +19,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/tZzjWAd.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://d1qxrac4t1asb.cloudfront.net/g93e06%2Fpreview%2F55707771%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1706633026&Signature=CsR6JZE4XUMebH~V-pO0k54q7lyE7JMaA-ojN2Dl5lGgrxnUn0XOzrC0D~6mnKIAi-Ur3dfBs5k04q1wyCB8hUoMRTu~KpIO2M-xJjOaYOhVp-MvtY9~GohoyhDEUQ6JpSpxMCK4N7EwCXc6fwEUC7WuxoVoSPyxNletcZuuFwdaGydhOe7CCwvYPpQ0XpGp8IRr9gF23gAtJ5sK0cFXji6EAPMisgazJDgMfesebHOYhsrY39CBPr4o6uGVzlQInlMLQmSZlU6rsm2ZzJuPARCWN3O5JaXXK2rZBZ3cFoQvj549C~ENfmcyg-Litgu6s3lQZuIyKvHA3Kkksz8C1w__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
