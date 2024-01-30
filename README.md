@@ -20,7 +20,6 @@ The following functionality is completed:
 Here's a walkthrough of implemented features:
 
 <img src='https://im.ezgif.com/tmp/ezgif-1-22edbab317.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<a href="https://ibb.co/mTDZN8r"><img src="https://i.ibb.co/c3gfYLK/Sea-Monster-Crowdfunding.gif" alt="Sea-Monster-Crowdfunding" border="0"></a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
